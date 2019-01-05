@@ -1,3 +1,3 @@
 # My-ML-practices
-Import pandas as pd
-Import numpy as nm
+import pandas as pd
+import numpy as nm
